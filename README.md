@@ -4,6 +4,7 @@
 - Controller
 - Routes
 - Model
+- Services
 - Sequelize (ORM)
 
 ### Quick Start
