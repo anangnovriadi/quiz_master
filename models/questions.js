@@ -11,15 +11,15 @@ module.exports = function(sequelize, DataTypes) {
       },
       question_number: {
         type: DataTypes.STRING,
-        allowNull: false
+        allowNull: true
       },
       question: {
         type: DataTypes.STRING,
-        allowNull: false
+        allowNull: true
       },
       answer: {
         type: DataTypes.STRING,
-        allowNull: false
+        allowNull: true
       }
     },
     {
