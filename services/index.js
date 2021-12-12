@@ -1,5 +1,5 @@
 "use-strict";
 
-const auditTrailService = require("./auditTrailService");
+const questionService = require("./questionService");
 
-module.exports = { auditTrailService };
+module.exports = { questionService };
