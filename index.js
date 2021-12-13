@@ -40,7 +40,7 @@ program
 program
   .command("delete_questions")
   .description("delete_questions | Deletes all question")
-  .action(deleteQuestion);
+  .action(destroyAllQuestion);
 
 program
   .command("answer_question <no> <answer>")

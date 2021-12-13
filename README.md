@@ -43,6 +43,10 @@ Running CLI
 ```
 
 ```  
+ quiz_master delete_questions
+```
+
+```  
  quiz_master answer_question <no> <answer>
 ```
 
@@ -57,6 +61,8 @@ Example
     quiz_master question 1
 
     quiz_master delete_question 1
+
+    quiz_master delete_questions
 
     quiz_master answer_question 1 22
 

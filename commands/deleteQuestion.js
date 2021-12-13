@@ -41,7 +41,7 @@ const deleteQuestion = no => {
 const destroyAllQuestion = no => {
   conf.delete("quiz-master-list");
 
-  console.log(chalk.green.bold("Deleted All Data"));
+  console.log(chalk.green.bold("All Question was Deleted"));
 };
 
 module.exports = { deleteQuestion, destroyAllQuestion };
