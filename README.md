@@ -1,8 +1,14 @@
 # quiz-master
 
 ### Features
-- Chalk
-- Conf
+Tech Stack
+- Node JS
+
+Lib
+- chalk
+- conf
+- commander
+
 
 ### Quick Start
 
